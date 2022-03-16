@@ -1,9 +1,3 @@
 this is the first git.
 
-I should do somthing disfferences.
-
-I should do end ?
-
-next to do ...
-
-13
+I come back for git.
